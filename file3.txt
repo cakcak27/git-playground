@@ -1,1 +1,2 @@
 tambah feature 1
+update init
